@@ -1,1 +1,11 @@
 /* Add CSS Styling */
+/*This is intended to generate conflicts when pulling*/
+.avartConflict.proportioned {
+   height: auto;
+   width: 300px;
+}
+
+.avartConflict.distorted {
+   height: 400px;
+   width: 200px;
+}
